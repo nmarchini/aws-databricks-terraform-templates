@@ -1,4 +1,4 @@
-# awsdb-tf-templates
+# aws databricks terraform templates
 **Databricks Templates for AWS**
 
 I recently needed to stand up a POC for an E2/Enterprise Databricks account, the Databricks components are deployed using the API and not via the Databricks console so there is some configuration to be done in advance in the AWS account. These templates create the necessary AWS resources to allow a Databricks cluster to run in your AWS Account. They are provided as a Terraform alternative to the [CloudFormation templates][2]
