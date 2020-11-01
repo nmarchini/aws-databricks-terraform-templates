@@ -5,7 +5,7 @@ I recently needed to stand up a POC for an E2/Enterprise Databricks account, the
 
 More information about Databricks E2 workspace creation using the API can be found [here][3] 
 
-The templates are simple and designed to be run using terraform commands, no make file or other helpers are needed, but you are welcome to fork this repository and add your own as needed. 
+The templates are simple and designed to be run using terraform commands, no Makefile or other helpers are needed, but you are welcome to fork this repository and add your own as needed. 
 
 **Templates**
 
