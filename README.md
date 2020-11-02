@@ -16,6 +16,12 @@ The templates are simple and designed to be run using terraform commands, no Mak
 - Existing-VPC - Deploys the necessary resources into an existing VPC to allow a Databricks to run in that VPC
 
 
+## Requirements
+
+- AWS account
+- AWS CLI installed + configured with your API keys
+- Git CLI installed
+
 ## How to use this code
 You will need to already be familiar with AWS CLI and Terraform. If you need to know how to authentication to your AWS account on the CLI then refer to the Terraform docs [Here][1]
 
